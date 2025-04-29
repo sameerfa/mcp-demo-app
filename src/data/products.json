@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p1",
+    "name": "Cloud Widget",
+    "category": "Widgets",
+    "price": 99.99
+  },
+  {
+    "id": "p2",
+    "name": "Data Analyzer",
+    "category": "Analytics",
+    "price": 199.99
+  },
+  {
+    "id": "p3",
+    "name": "API Gateway",
+    "category": "Infrastructure",
+    "price": 149.99
+  }
+] 

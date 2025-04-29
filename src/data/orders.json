@@ -1,0 +1,26 @@
+[
+  {
+    "id": "o101",
+    "productId": "p1",
+    "customerId": "cust_abc",
+    "quantity": 2,
+    "orderDate": "2023-10-26T10:00:00Z",
+    "status": "shipped"
+  },
+  {
+    "id": "o102",
+    "productId": "p2",
+    "customerId": "cust_xyz",
+    "quantity": 1,
+    "orderDate": "2023-10-27T15:30:00Z",
+    "status": "processing"
+  },
+  {
+    "id": "o103",
+    "productId": "p3",
+    "customerId": "cust_abc",
+    "quantity": 3,
+    "orderDate": "2023-10-28T09:15:00Z",
+    "status": "delivered"
+  }
+] 
